@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.039c0acc.css",
-    "main.js": "/static/js/main.c41d74b3.js",
-    "index.html": "/index.html",
-    "main.039c0acc.css.map": "/static/css/main.039c0acc.css.map",
-    "main.c41d74b3.js.map": "/static/js/main.c41d74b3.js.map"
+    "main.css": "/rdxstore/static/css/main.039c0acc.css",
+    "main.js": "/rdxstore/static/js/main.c41d74b3.js",
+    "index.html": "/rdxstore/index.html",
+    "main.039c0acc.css.map": "/rdxstore/static/css/main.039c0acc.css.map",
+    "main.c41d74b3.js.map": "/rdxstore/static/js/main.c41d74b3.js.map"
   },
   "entrypoints": [
     "static/css/main.039c0acc.css",
